@@ -37,6 +37,9 @@ public class Calc {
             default:
 
                 System.out.printf("Not a valid operation");
+                System.out.printf("No condition satisfied");
+                
+
 
         }
 
