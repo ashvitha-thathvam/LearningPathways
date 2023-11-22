@@ -1,4 +1,4 @@
-f the conditions are satisfiedpackage CalcDemo;
+package CalcDemo;
 
 import java.util.Scanner;
 
