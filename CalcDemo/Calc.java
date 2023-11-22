@@ -37,13 +37,13 @@ public class Calc {
             default:
 
                 System.out.printf("Not a valid operation");
-                System.out.printf("None of the conditions satisfied");
+                System.out.printf("None of the conditions atisfied");
                 
 
 
         }
 
-    }
+  }
 }
         
    
