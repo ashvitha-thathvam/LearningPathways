@@ -1,4 +1,4 @@
-package CalcDemo;
+f the conditions are satisfiedpackage CalcDemo;
 
 import java.util.Scanner;
 
@@ -37,8 +37,7 @@ public class Calc {
             default:
 
                 System.out.printf("Not a valid operation");
-                System.out.printf("NONE OF THE CONDITIONS ARE SATISFIED");
-                
+                System.out.printf("none of the conditions are satisfied");                
 
 
         }
