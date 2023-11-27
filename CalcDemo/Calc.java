@@ -27,7 +27,7 @@ public class Calc {
                 break;
             case '/':
                 if (num2 != 0)
-                    System.out.printf("%.2f+%.2f = %.2f",num1,num2,(num1+num2));
+                    System.out.printf("%.2f+%.2f = %.2f",num1,num2,(num1/num2));
                 else
                     System.out.println("Not possible");
 
